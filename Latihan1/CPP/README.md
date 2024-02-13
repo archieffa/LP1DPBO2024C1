@@ -1,1 +1,0 @@
-# Saya Syifa Azzahra NIM 2207308 mengerjakan soal Latihan 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
