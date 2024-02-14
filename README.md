@@ -25,7 +25,7 @@ Kelas ini memiliki setter dan getter untuk setiap atributnya, sehingga program d
 
 # ALUR PROGRAM
 
-Semua program mempunyai alur yang sama, kecuali program PHP yang inputan datanya berupa hardcode dan memiliki satu atribut tambahan yaitu atribut untuk path foto. Alur programnya adalah sebagai berikut:
+Semua program mempunyai alur yang sama, kecuali program PHP yang inputan datanya berupa hardcode dan memiliki satu atribut tambahan yaitu atribut untuk path foto. Selain itu, program CPP di branch main alurnya sedikit berbeda dengan program CPP_update di branch update. Perbedaannya adalah sebelum memilih fitur, user input data anggota terlebih dahulu baru muncul fitur-fitur yang tersedia. Alur programnya adalah sebagai berikut:
 
 - User mulai menjalankan program
 - User diberikan opsi untuk memilih fitur:
