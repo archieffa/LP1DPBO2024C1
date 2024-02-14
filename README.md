@@ -25,7 +25,7 @@ Kelas ini memiliki setter dan getter untuk setiap atributnya, sehingga program d
 
 # ALUR PROGRAM
 
-Semua program mempunyai alur yang sama, kecuali program PHP yang inputan datanya berupa hardcode dan memiliki satu atribut tambahan yaitu atribut untuk path foto. Alur programnya adalah sebagai berikut:
+Semua program mempunyai alur yang sama, kecuali program PHP yang inputan datanya berupa hardcode dan memiliki satu atribut tambahan yaitu atribut untuk path foto. Selain itu, program CPP di branch main alurnya sedikit berbeda dengan program CPP_update di branch update. Perbedaannya adalah sebelum memilih fitur, user input data anggota terlebih dahulu baru muncul fitur-fitur yang tersedia. Alur programnya adalah sebagai berikut:
 
 - User mulai menjalankan program
 - User diberikan opsi untuk memilih fitur:
@@ -64,20 +64,3 @@ Semua program mempunyai alur yang sama, kecuali program PHP yang inputan datanya
 ![tambahData](https://github.com/archieffa/LP1DPBO2024C1/assets/121290445/bf2b8ae4-16d1-4ca2-ac21-5094ffe8ed15)
 ![ubahData](https://github.com/archieffa/LP1DPBO2024C1/assets/121290445/720518a8-37d0-4d03-83ce-e4a1e76c1d30)
 ![hapusData](https://github.com/archieffa/LP1DPBO2024C1/assets/121290445/44a65659-81ce-4a41-b08e-9a3f7095a83d)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
